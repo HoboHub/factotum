@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "Monts";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Montserrat/Montserrat-Medium.ttf") format("truetype"); }
+@font-face {
+  font-family: "MontsLight";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Montserrat/Montserrat-Light.ttf") format("truetype"); }
+@font-face {
+  font-family: "MontsItal";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Montserrat/Montserrat-MediumItalic.ttf") format("truetype"); }
+@font-face {
+  font-family: "MontsEx";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Montserrat/Montserrat-ExtraBold.ttf") format("truetype"); }
+@font-face {
+  font-family: "Oraqle";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Oraqle/Oraqle Script.woff") format("woff"), url("../fonts/Oraqle/Oraqle Script.ttf") format("truetype"); }
+@font-face {
+  font-family: "MyriadLight";
+  font-style: normal;
+  font-weight: normal; }
+@font-face {
+  font-family: "Myriad";
+  font-style: normal;
+  font-weight: normal; }
+@font-face {
+  font-family: "MyriadBold";
+  font-style: normal;
+  font-weight: normal; }
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Raleway/Raleway-SemiBold.ttf") format("truetype"); }
+@font-face {
+  font-family: "RalewayBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Raleway/Raleway-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "RalewayLight";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Raleway/Raleway-Light.ttf") format("truetype"); }
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Roboto/Roboto-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: "RobotoLight";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Roboto/Roboto-Light.ttf") format("truetype"); }
+@font-face {
+  font-family: "RobotoBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Roboto/Roboto-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "YT";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/YandexSans/YandexSansDisplay-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: "YT-Thin";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/YandexSans/YandexSansDisplay-Thin.ttf") format("truetype"); }
+@font-face {
+  font-family: "YT-Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/YandexSans/YandexSansText-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: "YT-Light";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/YandexSans/YandexSansText-Light.ttf") format("truetype"); }
+
+/*# sourceMappingURL=fonts.css.map */
